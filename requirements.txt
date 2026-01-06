@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+scikit-learn
+python-docx
+reportlab
+requests
+python-dotenv
+sentence-transformers
